@@ -1,1 +1,1 @@
-[img](./art/art.png)
+![img](./art/art.png)
